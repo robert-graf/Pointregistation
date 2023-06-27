@@ -1,0 +1,1 @@
+#from registration.ridged_intensity.register import register_native_res, registrate_nipy
