@@ -5,6 +5,8 @@ This repository gives an example of point based registrations for nii.gz files. 
 
 ![Example](example.jpg)
 
+See tutorial_pointregistation.ipynb for a tutorial
+
 ## Install the package
 #### Make venv:
 ```
