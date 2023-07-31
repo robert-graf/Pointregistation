@@ -1,7 +1,9 @@
 
-# Pointbased Registaion
+# Pointbased Registration
+[![DOI](https://zenodo.org/badge/658692903.svg)](https://zenodo.org/badge/latestdoi/658692903)
 
-This repository gives an example of point based registrations for nii.gz files. Points can be computed by a instance segmentation and/or sub-segmentations. 
+
+This repository gives an example of point-based registrations for nii.gz files. Points can be computed by instance segmentation and/or sub-segmentations. 
 
 ![Example](example.jpg)
 
